@@ -12,7 +12,6 @@ Built with pure Three.js and custom GLSL shaders. Designed as a production‑gra
 
 ---
 
-<div align="center">
   
 ## Overview
 
@@ -79,8 +78,6 @@ Audio Mapping:
 * High → Micro‑vibrational turbulence and glow intensification
 * Global amplitude → Universal brightness scaling
 
-All spectrum data is passed to shaders as uniforms for GPU execution.
-
 ---
 
 ## Vision‑Based Particle Gravitation
@@ -94,7 +91,6 @@ In shader:
 * Dark zones repel particles
 * Global brightness modulates particle density perception
 
-This produces a live gravitational feedback system between the physical environment and the digital field.
 
 ---
 
@@ -139,7 +135,6 @@ shaders/
   fragment.glsl
 ```
 
-The shaders are loaded dynamically, requiring a local development server due to browser CORS policies.
 
 ---
 
@@ -186,9 +181,6 @@ Grant microphone and camera permissions to activate the full system.
 
 
 ---
-
-</div>
-
 <div align="center">
 
 ### Designed and Engineered by
