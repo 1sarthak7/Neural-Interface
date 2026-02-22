@@ -111,29 +111,6 @@ Effects:
 * Ripple propagation across depth layers
 * Velocity‑amplified distortion bursts
 
-The interaction is fluid and physically suggestive rather than abrupt.
-
----
-
-## Advanced Visual Effects
-
-Beyond base particle rendering, the system includes:
-
-* Additive blending for volumetric glow
-* Procedural 3D simplex noise (Ashima implementation)
-* Depth fog blending
-* Chromatic micro‑shift for spectral richness
-* Subtle camera parallax drift
-* High‑DPI rendering support
-* Smooth resize responsiveness
-
-Optional extensions (architecturally supported):
-
-* UnrealBloomPass
-* Chromatic aberration pass
-* Film grain overlay
-* Motion blur feedback buffer
-* Post‑processing color grading LUT
 
 ---
 
@@ -146,8 +123,6 @@ Optional extensions (architecturally supported):
 * GLSL
 * Web Audio API
 * WebRTC
-
-No bundlers. No frameworks. No abstraction layers beyond Three.js.
 
 ---
 
@@ -207,7 +182,6 @@ Grant microphone and camera permissions to activate the full system.
 5. Webcam light reshapes particle gravity
 6. Cursor distorts the neural field in real time
 
-The environment transitions from passive cosmos to reactive neural interface.
 
 ---
 
