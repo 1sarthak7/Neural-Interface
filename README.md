@@ -12,6 +12,8 @@ Built with pure Three.js and custom GLSL shaders. Designed as a production‑gra
 
 ---
 
+<div align="center">
+  
 ## Overview
 
 Neural Interface is a high‑performance WebGL particle engine rendering 100,000 GPU‑driven particles in real time. The system fuses microphone spectrum analysis, live webcam luminance mapping, and cursor‑based spatial distortion into a unified cinematic visual field.
@@ -184,6 +186,8 @@ Grant microphone and camera permissions to activate the full system.
 
 
 ---
+
+</div>
 
 <div align="center">
 
